@@ -1,7 +1,10 @@
 import time
 
+
+# Variable sets the tile of delay
 i = 1
 
+# Timer that counts down from 10 to blast off
 print(10)
 time.sleep(i)
 print(9)
@@ -22,4 +25,4 @@ print(2)
 time.sleep(i)
 print(1)
 time.sleep(i)
-print('BOEM BOEM BOEM')
+print('BLAST OFF!!!!!')
